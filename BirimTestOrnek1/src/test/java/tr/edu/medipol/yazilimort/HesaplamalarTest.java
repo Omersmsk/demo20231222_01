@@ -34,5 +34,5 @@ public class HesaplamalarTest {
         int sonuc = Hesaplamalar.carp(3, 5);
         assertEquals(15, sonuc);
     }
-	
+
 }
