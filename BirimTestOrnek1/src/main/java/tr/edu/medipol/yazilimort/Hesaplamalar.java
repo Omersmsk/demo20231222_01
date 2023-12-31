@@ -4,7 +4,7 @@ import java.util.Iterator;
 
 public class Hesaplamalar {
 
-	
+	 
 	
 	public static int faktoriyelRec(int n) {
 		if(n==1) return 1 ;
